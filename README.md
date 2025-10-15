@@ -29,12 +29,9 @@ You'll need Python 3.8+, Node.js 16+, and a DeepSeek API key.
 
 3. **Add your API key:**
    
-   Create a `.env` file in the backend folder:
-   ```
-   DEEPSEEK_API_KEY=your_api_key_here
-   ```
+   Place the `.env` file (shared via email) in the backend folder.
 
-3. **Install frontend:**
+4. **Install frontend:**
    ```bash
    cd frontend
    npm install
